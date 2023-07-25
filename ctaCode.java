@@ -298,5 +298,4 @@ public static void main(String args[]) {
 	Myframe  frame=new Myframe();
 }
 }
-		label7.setBounds(60,230,100,20);
-		c.add(label7);
+		
